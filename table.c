@@ -18,6 +18,8 @@ int main() {
   printf("%d",n1);
   n1=n*7;
   printf("%d",n1);
+  n1=n*8;
+  printf("%d",n1);
   return 0;
 }
   
